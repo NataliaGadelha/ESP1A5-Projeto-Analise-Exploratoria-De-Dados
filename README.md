@@ -35,7 +35,3 @@ O relatório apresenta insights sobre padrões de notificação, distribuições
 ## 📌 Contexto do Projeto
 Projeto realizado **em dupla** como parte da disciplina de **Estatística e Probabilidade Aplicada à Análise de Dados (ESP1A5)**.
 
----
-
-## 🔗 Link de Acesso
-[GitHub – Análise Exploratória de Dados](https://github.com/NataliaGadelha/ESP1A5-Projeto-Analise-Exploratoria-De-Dados)
