@@ -15,7 +15,7 @@ O relatório apresenta insights sobre padrões de notificação, distribuições
 ---
 
 ## 🛠 Tecnologias e Ferramentas
-- **Python**  
+- **Linguagem R**  
 - **Pandas** e **NumPy** para manipulação e tratamento de dados  
 - **Matplotlib** e **Seaborn** para visualização de dados  
 - **Jupyter Notebook** para execução do projeto
@@ -33,7 +33,7 @@ O relatório apresenta insights sobre padrões de notificação, distribuições
 ---
 
 ## 📌 Contexto do Projeto
-Projeto realizado **individualmente** como parte da disciplina de **Estatística e Probabilidade Aplicada à Análise de Dados (ESP1A5)**.
+Projeto realizado **em dupla** como parte da disciplina de **Estatística e Probabilidade Aplicada à Análise de Dados (ESP1A5)**.
 
 ---
 
